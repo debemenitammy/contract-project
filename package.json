@@ -1,0 +1,20 @@
+{
+  "name": "contractproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.8"
+  },
+  "devDependencies": {
+    "truffle": "^5.5.12"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
